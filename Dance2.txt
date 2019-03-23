@@ -1,1 +1,6 @@
 Dance, Dance, Dance 2
+
+Step left.
+Step right.
+Jump up and down.
+
